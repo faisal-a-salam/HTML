@@ -1,0 +1,4 @@
+/// HTML ///
+git remote add origin https://github.com/faisal-a-salam/HTML.git
+git branch -M master
+git push -u origin master
